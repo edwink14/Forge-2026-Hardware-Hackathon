@@ -27,6 +27,9 @@ The robot was optimized for fast repositioning and repeatable shot strength.
 - 2 9V battries
 🧠 System Design
 
+# 💻 Software 
+- C++ in Arduino Framework
+
 # 🔹 Movement System
 Instead of continuous drive, the robot uses short high-power PWM bursts (80ms) to:
 - Overcome friction instantly
