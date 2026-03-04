@@ -25,7 +25,6 @@ The robot was optimized for fast repositioning and repeatable shot strength.
 - 3D-printed arm mechanism
 - Chassis + wheels
 - 2 9V battries
-🧠 System Design
 
 # 💻 Software 
 - C++ in Arduino Framework
